@@ -1,0 +1,21 @@
+{
+  "name": "bulk-domain-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bulk",
+    "domain",
+    "finder",
+    "whois"
+  ],
+  "author": "besoeasy",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "whois": "^2.14.2"
+  }
+}
